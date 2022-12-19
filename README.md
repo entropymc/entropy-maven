@@ -1,2 +1,2 @@
-## Entropy Maven ##
-Maven for EntropyMC sources and files.
+## AncientMC Maven ##
+Maven for AncientMC sources and files.
