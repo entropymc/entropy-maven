@@ -28,10 +28,10 @@
           "name": "ACP-Gradle-0.1.0-beta.jar",
           "url": "ACP-Gradle-0.1.0-beta.jar",
           "size": 14784,
-          "sha512": "4a8f16e25500c71de8f51b6ddbe0ea12ef2df9b635155eafe5f668bd961bfb52a1803a461294f7afd0f653488d0b7ae4e5c28a98745c0c2addbebcf127d0e552",
-          "sha256": "59c7ec7460c7d0562730d4099b92a9128cf08123ad98a8a262f92d30105f65a0",
-          "sha1": "386ce714dd8d96c8c1ba530722848f507f0e6e00",
-          "md5": "a79416bed4cf590692febec967d30982"
+          "sha512": "b152d1d3f81f42430cee579f06406d3806dfc84a874e810c9a23fa018cefcf9273fed473348bbc7f6d9e1b1498b59ae1522e05c4981d07a972e6ab7187acba21",
+          "sha256": "879893604f2a50b119eb243e3f779bdb6cddd827b4e5aada4e22b3cf2a68ae5b",
+          "sha1": "63e31dd2e40ef3399e0c61a704eaa06fcac056f0",
+          "md5": "5d89fa46f90181b5e707b845dd5dbd63"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "ACP-Gradle-0.1.0-beta.jar",
           "url": "ACP-Gradle-0.1.0-beta.jar",
           "size": 14784,
-          "sha512": "4a8f16e25500c71de8f51b6ddbe0ea12ef2df9b635155eafe5f668bd961bfb52a1803a461294f7afd0f653488d0b7ae4e5c28a98745c0c2addbebcf127d0e552",
-          "sha256": "59c7ec7460c7d0562730d4099b92a9128cf08123ad98a8a262f92d30105f65a0",
-          "sha1": "386ce714dd8d96c8c1ba530722848f507f0e6e00",
-          "md5": "a79416bed4cf590692febec967d30982"
+          "sha512": "b152d1d3f81f42430cee579f06406d3806dfc84a874e810c9a23fa018cefcf9273fed473348bbc7f6d9e1b1498b59ae1522e05c4981d07a972e6ab7187acba21",
+          "sha256": "879893604f2a50b119eb243e3f779bdb6cddd827b4e5aada4e22b3cf2a68ae5b",
+          "sha1": "63e31dd2e40ef3399e0c61a704eaa06fcac056f0",
+          "md5": "5d89fa46f90181b5e707b845dd5dbd63"
         }
       ]
     }

@@ -28,10 +28,10 @@
           "name": "codecjorbis-impl-20221222.jar",
           "url": "codecjorbis-impl-20221222.jar",
           "size": 108774,
-          "sha512": "cb297515960488e8ec0a66806d3978ed971a87ead563aa72c92de130cc9b9aeb2bb4169f10220884f6375bdbe48d0a77bf7e83a465e412de624ac11e6a722dda",
-          "sha256": "8312103c0e8f9598187efbf2e2ce4fc19d0628a2910be829d176ed96ac786ded",
-          "sha1": "dd5927cb4537499fa5437ede2c690e9f24b4c68b",
-          "md5": "c9843971e5888990610a1534d447c2cb"
+          "sha512": "e757975fb3bce301f4845c797fd748cf21638909753c80f8372eda87fc868907318986e89cb5e50b0c7aeef3974c48d5344ac737ba394cac0e20b8c509be0fab",
+          "sha256": "b3dd43a037bac7ed99ae239c528663e1aee31e9ecf9f74afa2c3e1628ac09f46",
+          "sha1": "c53ee86b12bb85ea5e88748c7cca27b2d0830b3b",
+          "md5": "a6a433db1696a558c7c752bd5d507f6f"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "codecjorbis-impl-20221222.jar",
           "url": "codecjorbis-impl-20221222.jar",
           "size": 108774,
-          "sha512": "cb297515960488e8ec0a66806d3978ed971a87ead563aa72c92de130cc9b9aeb2bb4169f10220884f6375bdbe48d0a77bf7e83a465e412de624ac11e6a722dda",
-          "sha256": "8312103c0e8f9598187efbf2e2ce4fc19d0628a2910be829d176ed96ac786ded",
-          "sha1": "dd5927cb4537499fa5437ede2c690e9f24b4c68b",
-          "md5": "c9843971e5888990610a1534d447c2cb"
+          "sha512": "e757975fb3bce301f4845c797fd748cf21638909753c80f8372eda87fc868907318986e89cb5e50b0c7aeef3974c48d5344ac737ba394cac0e20b8c509be0fab",
+          "sha256": "b3dd43a037bac7ed99ae239c528663e1aee31e9ecf9f74afa2c3e1628ac09f46",
+          "sha1": "c53ee86b12bb85ea5e88748c7cca27b2d0830b3b",
+          "md5": "a6a433db1696a558c7c752bd5d507f6f"
         }
       ]
     }
