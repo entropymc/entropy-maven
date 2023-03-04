@@ -5,12 +5,12 @@
   <artifactId>com.ancientmc.acp.gradle.plugin</artifactId>
   <version>0.1.0-beta</version>
   <packaging>pom</packaging>
-  <name>ACP-Gradle</name>
-  <description>Gradle plugin for Ancient Coder Pack processes.</description>
+  <name>acp-plugin</name>
+  <description>Gradle plugin for Ancient Coder Pack (ACP) processes.</description>
   <dependencies>
     <dependency>
       <groupId>com.ancientmc.acp</groupId>
-      <artifactId>ACP-Gradle</artifactId>
+      <artifactId>acp-gradle</artifactId>
       <version>0.1.0-beta</version>
     </dependency>
   </dependencies>

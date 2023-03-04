@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.ancientmc.acp</groupId>
-  <artifactId>ACP-Gradle</artifactId>
+  <artifactId>acp-gradle</artifactId>
   <versioning>
     <latest>0.1.0-beta</latest>
     <release>0.1.0-beta</release>
     <versions>
       <version>0.1.0-beta</version>
     </versions>
-    <lastUpdated>20230113120455</lastUpdated>
+    <lastUpdated>20230127004156</lastUpdated>
   </versioning>
 </metadata>
