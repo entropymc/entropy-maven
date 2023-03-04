@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.oceanlabs.mcp</groupId>
+  <artifactId>mcinjector</artifactId>
+  <versioning>
+    <release>4.0-am</release>
+    <versions>
+      <version>4.0-am</version>
+    </versions>
+    <lastUpdated>20230304012406</lastUpdated>
+  </versioning>
+</metadata>
