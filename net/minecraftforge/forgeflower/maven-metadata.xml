@@ -3,11 +3,12 @@
   <groupId>net.minecraftforge</groupId>
   <artifactId>forgeflower</artifactId>
   <versioning>
-    <latest>1.0-am</latest>
-    <release>1.0-am</release>
+    <latest>1.0.1-am</latest>
+    <release>1.0.1-am</release>
     <versions>
       <version>1.0-am</version>
+      <version>1.0.1-am</version>
     </versions>
-    <lastUpdated>20230312183126</lastUpdated>
+    <lastUpdated>20230319190408</lastUpdated>
   </versioning>
 </metadata>

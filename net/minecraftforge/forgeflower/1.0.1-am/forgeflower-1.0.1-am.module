@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.minecraftforge",
+    "module": "forgeflower",
+    "version": "1.0.1-am",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "forgeflower-1.0.1-am.jar",
+          "url": "forgeflower-1.0.1-am.jar",
+          "size": 715055,
+          "sha512": "e8d5bdcc9ddb3de5cf3edf9486b68ec3761e2604724766d2541dc539021501aea6c803735be5ff708e84c9c2fb4e49d8571b4ee60a0106ce4fd5c7d5efc07363",
+          "sha256": "ed0b599f78ecd8e7848000bbd4d724b3d26956745b3cb17b12d5b7f5c7f2ddf5",
+          "sha1": "dcec7ffce547f54913c9db80199d926b30cb2637",
+          "md5": "092363270c237b8d7f320b21178a31f5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "forgeflower-1.0.1-am.jar",
+          "url": "forgeflower-1.0.1-am.jar",
+          "size": 715055,
+          "sha512": "e8d5bdcc9ddb3de5cf3edf9486b68ec3761e2604724766d2541dc539021501aea6c803735be5ff708e84c9c2fb4e49d8571b4ee60a0106ce4fd5c7d5efc07363",
+          "sha256": "ed0b599f78ecd8e7848000bbd4d724b3d26956745b3cb17b12d5b7f5c7f2ddf5",
+          "sha1": "dcec7ffce547f54913c9db80199d926b30cb2637",
+          "md5": "092363270c237b8d7f320b21178a31f5"
+        }
+      ]
+    }
+  ]
+}
