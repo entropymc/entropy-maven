@@ -3,7 +3,7 @@
   "component": {
     "group": "com.ancientmc.acp",
     "module": "acp-gradle",
-    "version": "0.2.0-beta",
+    "version": "0.2.0-beta-dev",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "acp-gradle-0.2.0-beta.jar",
-          "url": "acp-gradle-0.2.0-beta.jar",
+          "name": "acp-gradle-0.2.0-beta-dev.jar",
+          "url": "acp-gradle-0.2.0-beta-dev.jar",
           "size": 24091,
-          "sha512": "00c2f9bc3a7cea5e6e97dbf94c0a7b5f09e09b05b7da57d58678acc68b101ff4424a4cdd71a3369b291bf3bdd201ab1481926b014bb05ba1112776abd251d0ea",
-          "sha256": "102efbf68248cedfa5798bb1bbb9586300e2fed93424bd603188fad956214a74",
-          "sha1": "e3420f03087696bfdb836f4b0eda91a89358649f",
-          "md5": "a1851eabf28e65489d75d3fe7d580aff"
+          "sha512": "259c0f941132938d5791e204d14c80230909890edff1c2977ab320601f55d458aee7deb06aa19d4db16508df2e99f4739f43b6e230a00acc9afb355b48195c1d",
+          "sha256": "0c9d3d136b8b2e83c65a86ec16a982c7fd6d499ba7dedd8649455d2f5b6a951a",
+          "sha1": "25c9226329d08e764110ed8530b9bbe1c487bf3c",
+          "md5": "d51431c4725aa344b5f9194146a154d9"
         }
       ]
     },
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "acp-gradle-0.2.0-beta.jar",
-          "url": "acp-gradle-0.2.0-beta.jar",
+          "name": "acp-gradle-0.2.0-beta-dev.jar",
+          "url": "acp-gradle-0.2.0-beta-dev.jar",
           "size": 24091,
-          "sha512": "00c2f9bc3a7cea5e6e97dbf94c0a7b5f09e09b05b7da57d58678acc68b101ff4424a4cdd71a3369b291bf3bdd201ab1481926b014bb05ba1112776abd251d0ea",
-          "sha256": "102efbf68248cedfa5798bb1bbb9586300e2fed93424bd603188fad956214a74",
-          "sha1": "e3420f03087696bfdb836f4b0eda91a89358649f",
-          "md5": "a1851eabf28e65489d75d3fe7d580aff"
+          "sha512": "259c0f941132938d5791e204d14c80230909890edff1c2977ab320601f55d458aee7deb06aa19d4db16508df2e99f4739f43b6e230a00acc9afb355b48195c1d",
+          "sha256": "0c9d3d136b8b2e83c65a86ec16a982c7fd6d499ba7dedd8649455d2f5b6a951a",
+          "sha1": "25c9226329d08e764110ed8530b9bbe1c487bf3c",
+          "md5": "d51431c4725aa344b5f9194146a154d9"
         }
       ]
     }

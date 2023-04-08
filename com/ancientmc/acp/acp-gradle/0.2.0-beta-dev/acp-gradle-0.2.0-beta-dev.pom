@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ancientmc.acp</groupId>
   <artifactId>acp-gradle</artifactId>
-  <version>0.2.0-beta</version>
+  <version>0.2.0-beta-dev</version>
   <name>acp-gradle</name>
   <description>Gradle plugin for Ancient Coder Pack (ACP) processes.</description>
   <url>https://github.com/ancientmc/acp-gradle</url>
