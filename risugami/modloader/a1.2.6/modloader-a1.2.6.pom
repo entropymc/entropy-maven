@@ -7,10 +7,22 @@
   <version>a1.2.6</version>
   <packaging>lzma</packaging>
   <name>ModLoader Patches</name>
-  <description>LZMA archive for applying binary patches for mod loaders to the Minecraft JAR.</description>
+  <description>LZMA archive for applying binary patches for mod loaders to the Minecraft JAR, used by the Ancient Coder Pack (ACP).</description>
   <developers>
     <developer>
       <id>risugami</id>
+      <url>https://www.minecraftforum.net/members/Risugami</url>
+      <roles>
+        <role>Original author of ModLoader.</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>moist-mason</id>
+      <name>Mason</name>
+      <url>https://github.com/moist-mason</url>
+      <roles>
+        <role>Original author of ACP, compiler of this LZMA archive.</role>
+      </roles>
     </developer>
   </developers>
 </project>
