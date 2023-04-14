@@ -1,0 +1,69 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.paulscode",
+    "module": "codecjorbis-impl",
+    "version": "20230413",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 6,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "codecjorbis-impl-20230413.jar",
+          "url": "codecjorbis-impl-20230413.jar",
+          "size": 108467,
+          "sha512": "a27f86fd40a36bc6df2b4ccb24b5eb3e8d5702409bc746d94f2179798569de273f5f84342eac12872e4bf3b3d78f52ea25a518412ff3331bca63070db9eed9ec",
+          "sha256": "0c127a6dddd4f4dd92b40280e859ee1ed32aa4508c561fc38cbbc59f1ab373db",
+          "sha1": "ddcc840912f9e74715761e87b4828084034e3b39",
+          "md5": "8438fc442ddc0372c0fe32a6498ec337"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 6,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.paulscode",
+          "module": "soundsystem",
+          "version": {
+            "requires": "20120107"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "codecjorbis-impl-20230413.jar",
+          "url": "codecjorbis-impl-20230413.jar",
+          "size": 108467,
+          "sha512": "a27f86fd40a36bc6df2b4ccb24b5eb3e8d5702409bc746d94f2179798569de273f5f84342eac12872e4bf3b3d78f52ea25a518412ff3331bca63070db9eed9ec",
+          "sha256": "0c127a6dddd4f4dd92b40280e859ee1ed32aa4508c561fc38cbbc59f1ab373db",
+          "sha1": "ddcc840912f9e74715761e87b4828084034e3b39",
+          "md5": "8438fc442ddc0372c0fe32a6498ec337"
+        }
+      ]
+    }
+  ]
+}
