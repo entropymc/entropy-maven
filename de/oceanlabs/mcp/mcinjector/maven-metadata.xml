@@ -3,10 +3,11 @@
   <groupId>de.oceanlabs.mcp</groupId>
   <artifactId>mcinjector</artifactId>
   <versioning>
-    <release>4.0-am</release>
+    <release>4.1-am</release>
     <versions>
       <version>4.0-am</version>
+      <version>4.1-am</version>
     </versions>
-    <lastUpdated>20230304012406</lastUpdated>
+    <lastUpdated>20230425075919</lastUpdated>
   </versioning>
 </metadata>
