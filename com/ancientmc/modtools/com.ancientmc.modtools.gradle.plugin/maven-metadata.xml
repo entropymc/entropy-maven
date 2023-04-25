@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.ancientmc.acp</groupId>
-  <artifactId>acp-gradle</artifactId>
+  <groupId>com.ancientmc.modtools</groupId>
+  <artifactId>com.ancientmc.modtools.gradle.plugin</artifactId>
   <versioning>
     <latest>0.2.0-beta-dev</latest>
     <release>0.2.0-beta-dev</release>
     <versions>
-      <version>0.1.0-beta</version>
       <version>0.2.0-beta-dev</version>
     </versions>
-    <lastUpdated>20230425091330</lastUpdated>
+    <lastUpdated>20230425091328</lastUpdated>
   </versioning>
 </metadata>

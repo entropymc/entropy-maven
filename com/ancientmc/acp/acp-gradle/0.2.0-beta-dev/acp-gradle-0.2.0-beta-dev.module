@@ -27,11 +27,11 @@
         {
           "name": "acp-gradle-0.2.0-beta-dev.jar",
           "url": "acp-gradle-0.2.0-beta-dev.jar",
-          "size": 23954,
-          "sha512": "7426476e28899ac2999126067415642e7af0cee60fe2785fae1072d67fec937a453ecc74f88e4c95f2e20c3e41fa21b3889bdd8b5bf0804dd138e77378871c89",
-          "sha256": "71257b364021628730ffef78d5cf2ca971b70519157f0294e74c03837f9cdc17",
-          "sha1": "383b50e70ef174dd0c2cbd2fa4f28c06bdf89c10",
-          "md5": "a810a5c776a2e8347885121cb74bbe98"
+          "size": 42666,
+          "sha512": "41cca9bb97f20fcc4ad478ce24051971fdb71fc34e6cecf39a7287f8b386fab7d7b25704ee6dfe407b843778b5c763b6fe501927641b3dbf470944746db62699",
+          "sha256": "bb220234752d8fba6ea97296cd6be00b2bf848a84f7a4e1782f912ecc1c74578",
+          "sha1": "d8edf56bdefa675b76e4f0df630bd7b7febd0617",
+          "md5": "72e76983965f597e57596fb797bf3064"
         }
       ]
     },
@@ -58,17 +58,38 @@
           "version": {
             "requires": "2.10.1"
           }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "srgutils",
+          "version": {
+            "requires": "0.4.13"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-commons",
+          "version": {
+            "requires": "9.5"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.5"
+          }
         }
       ],
       "files": [
         {
           "name": "acp-gradle-0.2.0-beta-dev.jar",
           "url": "acp-gradle-0.2.0-beta-dev.jar",
-          "size": 23954,
-          "sha512": "7426476e28899ac2999126067415642e7af0cee60fe2785fae1072d67fec937a453ecc74f88e4c95f2e20c3e41fa21b3889bdd8b5bf0804dd138e77378871c89",
-          "sha256": "71257b364021628730ffef78d5cf2ca971b70519157f0294e74c03837f9cdc17",
-          "sha1": "383b50e70ef174dd0c2cbd2fa4f28c06bdf89c10",
-          "md5": "a810a5c776a2e8347885121cb74bbe98"
+          "size": 42666,
+          "sha512": "41cca9bb97f20fcc4ad478ce24051971fdb71fc34e6cecf39a7287f8b386fab7d7b25704ee6dfe407b843778b5c763b6fe501927641b3dbf470944746db62699",
+          "sha256": "bb220234752d8fba6ea97296cd6be00b2bf848a84f7a4e1782f912ecc1c74578",
+          "sha1": "d8edf56bdefa675b76e4f0df630bd7b7febd0617",
+          "md5": "72e76983965f597e57596fb797bf3064"
         }
       ]
     }
