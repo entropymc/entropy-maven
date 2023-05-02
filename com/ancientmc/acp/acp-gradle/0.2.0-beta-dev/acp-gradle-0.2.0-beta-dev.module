@@ -27,11 +27,11 @@
         {
           "name": "acp-gradle-0.2.0-beta-dev.jar",
           "url": "acp-gradle-0.2.0-beta-dev.jar",
-          "size": 42061,
-          "sha512": "1caa1d9f0184eb7f3660081548862d6b7a4156245346928788fb14e90e86a67121a187cf2be10142267062fedde689255153ba01afed9fd84d10a8bc2bcb44b4",
-          "sha256": "d5f8cc79aa391ae306398245893ec5ff309f93e31a40c3579b21ebfb1649a2e6",
-          "sha1": "f46cb7bc75353048e42f4b149c2031cdf8bb3065",
-          "md5": "e3ecebd8ad9dfed39c66873f38d18291"
+          "size": 41955,
+          "sha512": "f3aaba6c17b59fbed519d5106a4867db1b99a34809d3636ffea43ce71f0909e8220058bb949bc69b4032fdf04879bbee7d8e262fb051181cbb1b7cc1201151a7",
+          "sha256": "9d161736d778df56ce40210138813e634869a339390effbed86bd08024d2d57a",
+          "sha1": "ce233ec0078ec968d9c9f17c13f7cd5e1f89613d",
+          "md5": "74d87a728f2316176a76ba06b473bbfa"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "acp-gradle-0.2.0-beta-dev.jar",
           "url": "acp-gradle-0.2.0-beta-dev.jar",
-          "size": 42061,
-          "sha512": "1caa1d9f0184eb7f3660081548862d6b7a4156245346928788fb14e90e86a67121a187cf2be10142267062fedde689255153ba01afed9fd84d10a8bc2bcb44b4",
-          "sha256": "d5f8cc79aa391ae306398245893ec5ff309f93e31a40c3579b21ebfb1649a2e6",
-          "sha1": "f46cb7bc75353048e42f4b149c2031cdf8bb3065",
-          "md5": "e3ecebd8ad9dfed39c66873f38d18291"
+          "size": 41955,
+          "sha512": "f3aaba6c17b59fbed519d5106a4867db1b99a34809d3636ffea43ce71f0909e8220058bb949bc69b4032fdf04879bbee7d8e262fb051181cbb1b7cc1201151a7",
+          "sha256": "9d161736d778df56ce40210138813e634869a339390effbed86bd08024d2d57a",
+          "sha1": "ce233ec0078ec968d9c9f17c13f7cd5e1f89613d",
+          "md5": "74d87a728f2316176a76ba06b473bbfa"
         }
       ]
     }
