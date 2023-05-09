@@ -27,11 +27,11 @@
         {
           "name": "acp-gradle-0.2.0-beta-dev.jar",
           "url": "acp-gradle-0.2.0-beta-dev.jar",
-          "size": 40518,
-          "sha512": "d17c917ef78afadd4e2cd0728a488e94cbca1a204bcb379dba1e28b173fa8eb039603effee4dd52730504c5afc4fbb3336995f3ba894178d8b99eccab93adad6",
-          "sha256": "1617936fd056e78d6e43300298989a2aa7b40a1b2961c9c3605a2b5708f344e9",
-          "sha1": "4da0ce024be7d95860e268ba212325cc7a78cf76",
-          "md5": "22f666ea18fb44d395e4622d9bfe9165"
+          "size": 43529,
+          "sha512": "00a295cda32af3f4760af68afeb85b5421024d299f1531f9638a1062e0de2d1ee96009ec33e73028e8e6175ed2832d9979414aa7dad08fe9ba7ac178b76e390a",
+          "sha256": "da379e55a8934bf0d7865a74b52bb2498eac5280dec38951527ca3a9f062dc1f",
+          "sha1": "05536fc77feeb05e9439c35ec2a57253d46644d4",
+          "md5": "9bdb2f20b6ace1e11a9c20430d411b5f"
         }
       ]
     },
@@ -65,31 +65,17 @@
           "version": {
             "requires": "0.4.13"
           }
-        },
-        {
-          "group": "org.ow2.asm",
-          "module": "asm-commons",
-          "version": {
-            "requires": "9.5"
-          }
-        },
-        {
-          "group": "org.ow2.asm",
-          "module": "asm-tree",
-          "version": {
-            "requires": "9.5"
-          }
         }
       ],
       "files": [
         {
           "name": "acp-gradle-0.2.0-beta-dev.jar",
           "url": "acp-gradle-0.2.0-beta-dev.jar",
-          "size": 40518,
-          "sha512": "d17c917ef78afadd4e2cd0728a488e94cbca1a204bcb379dba1e28b173fa8eb039603effee4dd52730504c5afc4fbb3336995f3ba894178d8b99eccab93adad6",
-          "sha256": "1617936fd056e78d6e43300298989a2aa7b40a1b2961c9c3605a2b5708f344e9",
-          "sha1": "4da0ce024be7d95860e268ba212325cc7a78cf76",
-          "md5": "22f666ea18fb44d395e4622d9bfe9165"
+          "size": 43529,
+          "sha512": "00a295cda32af3f4760af68afeb85b5421024d299f1531f9638a1062e0de2d1ee96009ec33e73028e8e6175ed2832d9979414aa7dad08fe9ba7ac178b76e390a",
+          "sha256": "da379e55a8934bf0d7865a74b52bb2498eac5280dec38951527ca3a9f062dc1f",
+          "sha1": "05536fc77feeb05e9439c35ec2a57253d46644d4",
+          "md5": "9bdb2f20b6ace1e11a9c20430d411b5f"
         }
       ]
     }

@@ -21,7 +21,7 @@
   </licenses>
   <developers>
     <developer>
-      <id>mason</id>
+      <id>moist-mason</id>
       <name>Mason</name>
     </developer>
   </developers>
@@ -42,18 +42,6 @@
       <groupId>net.minecraftforge</groupId>
       <artifactId>srgutils</artifactId>
       <version>0.4.13</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.ow2.asm</groupId>
-      <artifactId>asm-commons</artifactId>
-      <version>9.5</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.ow2.asm</groupId>
-      <artifactId>asm-tree</artifactId>
-      <version>9.5</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
