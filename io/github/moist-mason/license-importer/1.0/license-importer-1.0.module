@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -27,11 +27,11 @@
         {
           "name": "license-importer-1.0.jar",
           "url": "license-importer-1.0.jar",
-          "size": 2707,
-          "sha512": "adbbb552321089c3a295d4c50cc22358643fd61fdfebd58da238236f8965e6881a870fb1a16214b9f8d9424dad160ac0f4ccf952d107d2f72cc6f5aa5ee045e8",
-          "sha256": "a59ade3921e4c4dde6c27e1a0202389ce6020976c9e03dc8a58eb13defbb5f67",
-          "sha1": "2b6bbc7a16f50e3c61916de90adc687747d1758d",
-          "md5": "c9eb2a0f310eae8154b1e19db8fb68b8"
+          "size": 2687,
+          "sha512": "d393f8b3d02c80045d903299e6f3b9d402e272aa45d5aad691c68779e0ae49e71391ee392d620d97ae73843aa302642b6128fd822b79d5436f221a4c0a1ebb20",
+          "sha256": "c2e58ea47dec076a56a9c5932dd10976105229bce40edc9cd332d7e18e99e4f5",
+          "sha1": "6ce2521734802d6147543f8570bb1ac42fd9e14c",
+          "md5": "33924572133336f438e9b77b69d2636e"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -57,11 +57,11 @@
         {
           "name": "license-importer-1.0.jar",
           "url": "license-importer-1.0.jar",
-          "size": 2707,
-          "sha512": "adbbb552321089c3a295d4c50cc22358643fd61fdfebd58da238236f8965e6881a870fb1a16214b9f8d9424dad160ac0f4ccf952d107d2f72cc6f5aa5ee045e8",
-          "sha256": "a59ade3921e4c4dde6c27e1a0202389ce6020976c9e03dc8a58eb13defbb5f67",
-          "sha1": "2b6bbc7a16f50e3c61916de90adc687747d1758d",
-          "md5": "c9eb2a0f310eae8154b1e19db8fb68b8"
+          "size": 2687,
+          "sha512": "d393f8b3d02c80045d903299e6f3b9d402e272aa45d5aad691c68779e0ae49e71391ee392d620d97ae73843aa302642b6128fd822b79d5436f221a4c0a1ebb20",
+          "sha256": "c2e58ea47dec076a56a9c5932dd10976105229bce40edc9cd332d7e18e99e4f5",
+          "sha1": "6ce2521734802d6147543f8570bb1ac42fd9e14c",
+          "md5": "33924572133336f438e9b77b69d2636e"
         }
       ]
     }
