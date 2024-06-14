@@ -27,11 +27,11 @@
         {
           "name": "license-importer-1.0.jar",
           "url": "license-importer-1.0.jar",
-          "size": 2687,
-          "sha512": "d393f8b3d02c80045d903299e6f3b9d402e272aa45d5aad691c68779e0ae49e71391ee392d620d97ae73843aa302642b6128fd822b79d5436f221a4c0a1ebb20",
-          "sha256": "c2e58ea47dec076a56a9c5932dd10976105229bce40edc9cd332d7e18e99e4f5",
-          "sha1": "6ce2521734802d6147543f8570bb1ac42fd9e14c",
-          "md5": "33924572133336f438e9b77b69d2636e"
+          "size": 3065,
+          "sha512": "79caf7a2020357376b675acf2c58f0232a2ad4beb870eec6b1c17d59a07551c93016ba1e543689f58369d379fe6afe48e97f950e2541a7c2af5ea74913315361",
+          "sha256": "7b082071c0a34e32e419d477fbeaacc5b04390a2bc397448df2b1d8409b06d68",
+          "sha1": "47f4ae5a0d4dc9b002a9b77ae92ed957bfff4d4a",
+          "md5": "eb9a3029e15aa2d4244ddd26b571f725"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "license-importer-1.0.jar",
           "url": "license-importer-1.0.jar",
-          "size": 2687,
-          "sha512": "d393f8b3d02c80045d903299e6f3b9d402e272aa45d5aad691c68779e0ae49e71391ee392d620d97ae73843aa302642b6128fd822b79d5436f221a4c0a1ebb20",
-          "sha256": "c2e58ea47dec076a56a9c5932dd10976105229bce40edc9cd332d7e18e99e4f5",
-          "sha1": "6ce2521734802d6147543f8570bb1ac42fd9e14c",
-          "md5": "33924572133336f438e9b77b69d2636e"
+          "size": 3065,
+          "sha512": "79caf7a2020357376b675acf2c58f0232a2ad4beb870eec6b1c17d59a07551c93016ba1e543689f58369d379fe6afe48e97f950e2541a7c2af5ea74913315361",
+          "sha256": "7b082071c0a34e32e419d477fbeaacc5b04390a2bc397448df2b1d8409b06d68",
+          "sha1": "47f4ae5a0d4dc9b002a9b77ae92ed957bfff4d4a",
+          "md5": "eb9a3029e15aa2d4244ddd26b571f725"
         }
       ]
     }
