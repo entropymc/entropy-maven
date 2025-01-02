@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.ancientmc.acp",
+    "module": "acp-gradle",
+    "version": "0.2.0-beta-20250102.033545",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "acp-gradle-0.2.0-beta-20250102.033545.jar",
+          "url": "acp-gradle-0.2.0-beta-20250102.033545.jar",
+          "size": 51963,
+          "sha512": "a12e14787f1f26b792add91022804b72ac90243ce4fcc0330d55adb858945d7cec996e15661b59540e83295db38f662f82f44b769e7d19816a48d36eca97449d",
+          "sha256": "163a0ab8fe89e7bd2af5af9203c46af1223d429ad0274f26bdd30af940aaba3e",
+          "sha1": "1410ecad36f5bc0c55f5a2c10fa502c265a7b086",
+          "md5": "d6b0823c22a51a51f0d52e241434cf74"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.16.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "srgutils",
+          "version": {
+            "requires": "0.4.13"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "acp-gradle-0.2.0-beta-20250102.033545.jar",
+          "url": "acp-gradle-0.2.0-beta-20250102.033545.jar",
+          "size": 51963,
+          "sha512": "a12e14787f1f26b792add91022804b72ac90243ce4fcc0330d55adb858945d7cec996e15661b59540e83295db38f662f82f44b769e7d19816a48d36eca97449d",
+          "sha256": "163a0ab8fe89e7bd2af5af9203c46af1223d429ad0274f26bdd30af940aaba3e",
+          "sha1": "1410ecad36f5bc0c55f5a2c10fa502c265a7b086",
+          "md5": "d6b0823c22a51a51f0d52e241434cf74"
+        }
+      ]
+    }
+  ]
+}
