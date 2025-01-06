@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.ancientmc.acp",
+    "module": "acp-gradle",
+    "version": "0.2.0-beta-20250105.200935-LOGGING_TEST",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "acp-gradle-0.2.0-beta-20250105.200935-LOGGING_TEST.jar",
+          "url": "acp-gradle-0.2.0-beta-20250105.200935-LOGGING_TEST.jar",
+          "size": 58140,
+          "sha512": "1844a533d98fe6b8190f2e76875ac8c6149491b2f6db315bc94be739e64d42079fbce3912cf23c98e46228c4723948d446f73813c990114b11cf5b888e7fbac0",
+          "sha256": "831bc22a48389199978aaf1e930745463e8d008a5a8019d8f49024cebce8e62d",
+          "sha1": "4fe687c54b5ac2a58bf5112dd41c06f3a0eedc11",
+          "md5": "db8dccbd2cc898a91464039b8c518225"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.18.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "srgutils",
+          "version": {
+            "requires": "0.4.13"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "acp-gradle-0.2.0-beta-20250105.200935-LOGGING_TEST.jar",
+          "url": "acp-gradle-0.2.0-beta-20250105.200935-LOGGING_TEST.jar",
+          "size": 58140,
+          "sha512": "1844a533d98fe6b8190f2e76875ac8c6149491b2f6db315bc94be739e64d42079fbce3912cf23c98e46228c4723948d446f73813c990114b11cf5b888e7fbac0",
+          "sha256": "831bc22a48389199978aaf1e930745463e8d008a5a8019d8f49024cebce8e62d",
+          "sha1": "4fe687c54b5ac2a58bf5112dd41c06f3a0eedc11",
+          "md5": "db8dccbd2cc898a91464039b8c518225"
+        }
+      ]
+    }
+  ]
+}
